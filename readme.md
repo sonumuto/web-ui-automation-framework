@@ -1,14 +1,14 @@
 <h1 align="center"> WebUI Page Object Model Framework </h1>
 
-This is a WebUI Page Object Model Framework using Selenium WebDriver, Python and pytest.
-There are some example pages and tests in the project to help you get started.
+A WebUI Page Object Model Framework using Selenium WebDriver written in Python and pytest.
+with some example pages and tests in the project to help you get started.
 
 ## Getting Started
 
-To be able to run the tests, you need to install followings:
+To be able to run the tests, you need to install following:
 1. Python3 (3.11 is recommended)
 2. chromedriver or geckodriver (depending on the browser you want to use)
-3. Required packages using the following command:
+3. and the required packages using the following command:
 
     ```bash
     pip install -r requirements.txt
